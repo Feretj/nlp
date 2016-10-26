@@ -1,0 +1,5 @@
+__pycache__/
+kneighbours.py
+*~
+node_modules
+bundle.js

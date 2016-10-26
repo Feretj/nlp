@@ -1,0 +1,28 @@
+{
+  "name": "nlpwebgui",
+  "version": "1.0.0",
+  "description": "About project",
+  "main": "index.js",
+  "scripts": {
+    "test": "webpack-develop-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://Feretj@bitbucket.org/Feretj/nlp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/Feretj/nlp#readme",
+  "dependencies": {
+    "css-loader": "^0.23.1",
+    "jquery": "^2.2.4",
+    "jsx-loader": "^0.13.2",
+    "node-sass": "^3.7.0",
+    "react": "^15.1.0",
+    "react-dom": "^15.1.0",
+    "sass-loader": "^3.2.0",
+    "style-loader": "^0.13.1",
+    "webpack": "^1.13.1",
+    "webpack-dev-server": "^1.14.1"
+  }
+}
