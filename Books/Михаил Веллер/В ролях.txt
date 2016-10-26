@@ -1,0 +1,57 @@
+<html><head><title>Михаил Веллер. В ролях</title></head><body><pre><div align=right><div align=right><form action=mailto:hit@library.niisi.ras.ru method=POST><a href=/HITPARAD/><font color=black>Оцените</font></a> этот текст:<tt><font size=-1><INPUT TYPE=hidden NAME=file VALUE=/WELLER/in_roles.txt><SELECT NAME=ocenka><OPTION VALUE=0>Не читал<OPTION VALUE=10>10<OPTION VALUE=9>9<OPTION VALUE=8>8<OPTION VALUE=7>7<OPTION VALUE=6>6<OPTION VALUE=5>5<OPTION VALUE=4>4<OPTION VALUE=3>3<OPTION VALUE=2>2<OPTION VALUE=1>1</SELECT><INPUT TYPE=submit VALUE=Send></font></tt></form></div><form action=/WELLER/in_roles.txt><select name=format><OPTION VALUE="_Contents">Содержание<OPTION VALUE="_with-big-pictures.html">Fine HTML<OPTION VALUE="_Ascii.txt">txt(Word,КПК)<OPTION VALUE=".gz">gZip<OPTION VALUE="">Lib.ru html</select><input type=submit value=go></form></div><pre>
+<ul><a name=0></a><h2>Михаил Веллер. В ролях</h2></ul>
+
+
+
+
+     В ресторане пусто - четыре часа дня.
+     Посетитель у окна заказывает  официантке.  Оба  -  лет  двадцати.  Он
+провожает ее взглядом: хорошая фигура.
+     Официантка приносит водку, яичницу и сигареты.
+     - Меня зовут Саша. А вас?
+     - Зачем?
+     Официантка приносит шашлык.
+     - Выпейте со мной, - говорит Саша.
+     - Нам нельзя.
+     - Одну рюмку. Выпейте, ей-богу...
+     - Спасибо; нам нельзя.
+     (Ей и без него докуки хватает. Ее мальчик ушел вчера. Она  не  спала.
+Плохо спала. Она переживает. Она покинута любимым.  Флиртовать  нельзя.  А
+этот - ничего. Поэтому она раздражается. "Мне и без тебя докуки  хватает",
+- думает она.)
+     Посетитель ест, пьет, курит; движения медленные. Пожалуй, подчеркнуто
+медленные. Выражение заторможенное.
+     - С вас пять девяносто две.
+     Дает восемь без сдачи. Она благодарит.
+     - А вот  теперь,  -  говорит  он  тихим  ломким  голосом  и  начинает
+бледнеть, - теперь я должен идти к родителям моего друга и сказать им, что
+он утонул.
+     Пауза.
+     - Как...
+     - Вот так. Пять суток назад. В Бискайском заливе.
+     Я сегодня из рейса.
+     Пауза.
+     - Вы долго дружили?..
+     Пауза.
+     - Росли вместе. Мореходку кончали. Это второй  рейс.  Смыло.  У  него
+была невеста.
+     - О господи... - вздыхает наконец официантка и, постояв, отходит.
+     Посетитель сидит бледный, докуривает.
+     (Вслед ей не смотрит. Он в предстоящем.  Хотя  родители  извещены.  И
+невеста - натяжка. Но он  готов  исполнить  трудную  мужскую  обязанность.
+Горькое и высокое чувство. Он мужчина. У него погиб друг.  Он  возвышается
+своим чувством.)
+     И идет к гардеробу походкой сомнамбулы.  Руку  с  номерном  подает  в
+направлении гардеробщика отсутствуя. Отпускает рубль.
+     Официантка,  сидя  на  подоконнике,  что-то  тихо   говорит   другой,
+показывая на него глазами. Глаза блестят. Боковым зрением он принимает это
+с неким удовлетворением.
+     Выходит нечетко.
+     Улица - ничьего внимания он не привлекает. В полумгле на  асфальтовой
+площади проступают серебром фонарные столбы. Сейчас состояние  его  близко
+опьянению.
+     Но ветер холодный, и он трезвеет, пока доходит до знакомого подъезда.
+<pre><hr noshade><small>Обращений с начала месяца: <b>109</b>, Last-modified: Thu, 03 Jul 1997 10:00:28 GMT
+</small><div align=right><form action=mailto:hit@library.niisi.ras.ru method=POST><a href=/HITPARAD/><font color=black>Оцените</font></a> этот текст:<tt><font size=-1><INPUT TYPE=hidden NAME=file VALUE=/WELLER/in_roles.txt><SELECT NAME=ocenka><OPTION VALUE=0>Не читал<OPTION VALUE=10>10<OPTION VALUE=9>9<OPTION VALUE=8>8<OPTION VALUE=7>7<OPTION VALUE=6>6<OPTION VALUE=5>5<OPTION VALUE=4>4<OPTION VALUE=3>3<OPTION VALUE=2>2<OPTION VALUE=1>1</SELECT><INPUT TYPE=submit VALUE=Send></font></tt></form></div>
+
+</body></html>

@@ -1,0 +1,48 @@
+<html><head><title>Михаил Веллер. Паук</title></head><body><pre><div align=right><div align=right><form action=mailto:hit@library.niisi.ras.ru method=POST><a href=/HITPARAD/><font color=black>Оцените</font></a> этот текст:<tt><font size=-1><INPUT TYPE=hidden NAME=file VALUE=/WELLER/spider.txt><SELECT NAME=ocenka><OPTION VALUE=0>Не читал<OPTION VALUE=10>10<OPTION VALUE=9>9<OPTION VALUE=8>8<OPTION VALUE=7>7<OPTION VALUE=6>6<OPTION VALUE=5>5<OPTION VALUE=4>4<OPTION VALUE=3>3<OPTION VALUE=2>2<OPTION VALUE=1>1</SELECT><INPUT TYPE=submit VALUE=Send></font></tt></form></div><form action=/WELLER/spider.txt><select name=format><OPTION VALUE="_Contents">Содержание<OPTION VALUE="_with-big-pictures.html">Fine HTML<OPTION VALUE="_Ascii.txt">txt(Word,КПК)<OPTION VALUE=".gz">gZip<OPTION VALUE="">Lib.ru html</select><input type=submit value=go></form></div><pre>
+<ul><a name=0></a><h2>Михаил Веллер. Паук</h2></ul>
+
+
+
+
+     Беззаботность.
+     Он был обречен: мальчик заметил его.
+     С перил веранды он пошуршал через расчерченный солнцем стол. Крупный:
+серая шершавая вишня на членистых ножках.
+     Мальчик взял спички.
+     Он всходил на стенку: сверху напали! Он сжался и упал: умер.
+     Удар мощного жала - он вскочил и понесся.
+     Мальчик чиркнул еще спичку, отрезая бегство.
+     Он метался, спасаясь.
+     Мальчик не выпускал его из угла перил и стены. Брезгливо поджимался.
+     Противный.
+     Враг убивал отовсюду. Иногда кидались двое, он еле ускользал.
+     Не успел увернуться. Тело слушалось плохо. Оно было уже не все.
+     Яркий шар вздулся и прыгнул снова.
+     Ухода нет.
+     В угрожающей позе он изготовился драться.
+     Мальчик увидел: две  передние  ножки  сложились  пополам,  открыв  из
+суставов когти поменьше воробьиных.
+     И когда враг надвинулся вновь, он прянул вперед и ударил.
+     Враг исчез.
+     Мальчик отдернул руку. Спичка погасла.
+     Ты смотри...
+     Он бросался еще, и враг не мог приблизиться.
+     Два сразу: один спереди пятился от ударов -  второй  сверху  целил  в
+голову. Он забил когтями, завертелся. Им было не справиться с ним.
+     Коробок пустел.
+     Жало жгло. Била белая боль. Коготь исчез.
+     Он выставил уцелевший коготь к бою.
+     Стена огня.
+     Мир горел и сжимался.
+     Жало врезалось в мозг  и  выжгло  его.  Жизнь  кончалась.  Обугленные
+шпеньки лап еще двигались: он дрался.
+     ...Холодная струна вибрировала в позвоночнике мальчика. Рот в  кислой
+слюне. Двумя щепочками он взял пепельный катышек и выбросил на клумбу.
+     Пространство там прониклось его значением, словно серовато-прозрачная
+сфера. Долго не сводил глаз с незаметного шарика между травинок, взрослея.
+     Его трясло.
+     Он чувствовал себя ничтожеством.
+<pre><hr noshade><small>Обращений с начала месяца: <b>120</b>, Last-modified: Thu, 03 Jul 1997 10:01:14 GMT
+</small><div align=right><form action=mailto:hit@library.niisi.ras.ru method=POST><a href=/HITPARAD/><font color=black>Оцените</font></a> этот текст:<tt><font size=-1><INPUT TYPE=hidden NAME=file VALUE=/WELLER/spider.txt><SELECT NAME=ocenka><OPTION VALUE=0>Не читал<OPTION VALUE=10>10<OPTION VALUE=9>9<OPTION VALUE=8>8<OPTION VALUE=7>7<OPTION VALUE=6>6<OPTION VALUE=5>5<OPTION VALUE=4>4<OPTION VALUE=3>3<OPTION VALUE=2>2<OPTION VALUE=1>1</SELECT><INPUT TYPE=submit VALUE=Send></font></tt></form></div>
+
+</body></html>

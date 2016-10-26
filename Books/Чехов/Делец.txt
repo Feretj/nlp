@@ -1,0 +1,35 @@
+<html><head><title>Антон Павлович Чехов. Делец</title></head><body><pre><div align=right><div align=right><form action=mailto:hit@library.niisi.ras.ru method=POST><a href=/HITPARAD/><font color=black>Оцените</font></a> этот текст:<tt><font size=-1><INPUT TYPE=hidden NAME=file VALUE=/LITRA/CHEHOW/deletz.txt><SELECT NAME=ocenka><OPTION VALUE=0>Не читал<OPTION VALUE=10>10<OPTION VALUE=9>9<OPTION VALUE=8>8<OPTION VALUE=7>7<OPTION VALUE=6>6<OPTION VALUE=5>5<OPTION VALUE=4>4<OPTION VALUE=3>3<OPTION VALUE=2>2<OPTION VALUE=1>1</SELECT><INPUT TYPE=submit VALUE=Send></font></tt></form></div><form action=/LITRA/CHEHOW/deletz.txt><select name=format><OPTION VALUE="_Contents">Содержание<OPTION VALUE="_with-big-pictures.html">Fine HTML<OPTION VALUE="_Ascii.txt">txt(Word,КПК)<OPTION VALUE=".gz">gZip<OPTION VALUE="">Lib.ru html</select><input type=submit value=go></form></div><pre>
+<ul><a name=0></a><h2>Антон Павлович Чехов. Делец</h2></ul>
+
+
+     Он маклер, биржевой заяц, дирижер в танцах,  комиссионер,  шафер,  кум,
+плакальщик на похоронах и ходатай по делам. Иванову известен он  как  рьяный
+консерватор, Петрову же - как отъявленный нигилист. Радуется чужим свадьбам,
+носит детям конфеты и терпеливо беседует со старухами. Одет всегда по моде и
+причесан a la Капуль. Имеет большую памятную книжку, которую держит  втайне.
+Делаем из нее выдержки:
+     "Потрачено на угощение княжеского камердинера
+     "Не  забыть  показать  графине  Дыриной  новый   пасьянс   из   колоды,
+размещаются в форме круга; следующие  кладутся,  как  знаешь,  на  одну  или
+другую из этих карт, невзирая на масть до появления червонной дамы  и  проч.
+Напомнить кстати о Пете Сивухине, желающем поступить  в  Дримадерский  полк.
+Тут  же  переговорить  с  горничной  Олей  касательно  выкроек  для  купчихи
+Выбухиной".
+     "За сватовство Ерыгин не додал 7 руб. Того же дня на крестинах следил я
+за Куцыным, либерально заговаривал с  ним  о  политике,  но  подозрительного
+ничего не добился. Придется подождать".
+     "Инженер Фунин заказал нанять  квартиру  для  его  новой  содержанки  и
+просил старую, т.е. Елену Михайловну, сбыть кому-нибудь. Обещал сделать то и
+другое
+     "Княгиня Хлыдина дает за свои любовные письма за 3000,  но  ни  в  коем
+разе не отдавать ей всех. То письмо, в котором описывается свидание в  саду,
+продать ей особо в будущем".
+     "Был свидетелем на суде. Помазал прокурора по губам,  а  потому,  когда
+защитник стал меня пощипывать, то председатель за меня вступился".
+     "Не забыть дать по морде агенту Янкелю, чтоб не врал".
+     "Вчера у Букашиных во время винта следили за получил оплеуху".  за  то,
+что не печатали судебного отчета. Будет с них и десяти..."
+<pre><hr noshade><small>Обращений с начала месяца: <b>84</b>, Last-modified: Wed, 13 Jun 2001 18:25:14 GMT
+</small><div align=right><form action=mailto:hit@library.niisi.ras.ru method=POST><a href=/HITPARAD/><font color=black>Оцените</font></a> этот текст:<tt><font size=-1><INPUT TYPE=hidden NAME=file VALUE=/LITRA/CHEHOW/deletz.txt><SELECT NAME=ocenka><OPTION VALUE=0>Не читал<OPTION VALUE=10>10<OPTION VALUE=9>9<OPTION VALUE=8>8<OPTION VALUE=7>7<OPTION VALUE=6>6<OPTION VALUE=5>5<OPTION VALUE=4>4<OPTION VALUE=3>3<OPTION VALUE=2>2<OPTION VALUE=1>1</SELECT><INPUT TYPE=submit VALUE=Send></font></tt></form></div>
+
+</body></html>

@@ -1,0 +1,51 @@
+<html><head><title>Михаил Веллер. Лодочка</title></head><body><pre><div align=right><div align=right><form action=mailto:hit@library.niisi.ras.ru method=POST><a href=/HITPARAD/><font color=black>Оцените</font></a> этот текст:<tt><font size=-1><INPUT TYPE=hidden NAME=file VALUE=/WELLER/boat.txt><SELECT NAME=ocenka><OPTION VALUE=0>Не читал<OPTION VALUE=10>10<OPTION VALUE=9>9<OPTION VALUE=8>8<OPTION VALUE=7>7<OPTION VALUE=6>6<OPTION VALUE=5>5<OPTION VALUE=4>4<OPTION VALUE=3>3<OPTION VALUE=2>2<OPTION VALUE=1>1</SELECT><INPUT TYPE=submit VALUE=Send></font></tt></form></div><form action=/WELLER/boat.txt><select name=format><OPTION VALUE="_Contents">Содержание<OPTION VALUE="_with-big-pictures.html">Fine HTML<OPTION VALUE="_Ascii.txt">txt(Word,КПК)<OPTION VALUE=".gz">gZip<OPTION VALUE="">Lib.ru html</select><input type=submit value=go></form></div><pre>
+<ul><a name=0></a><h2>Михаил Веллер. Лодочка</h2></ul>
+
+
+
+
+     Октябрьский день был ясен и чист насквозь. Я бродил по  Михайловскому
+саду: сухое стынущее сияние  осени,  ограненное  в  узорную  чернь  оград.
+Перспективы обнажались. Отдыхали на  скамейках  старички,  курили  молодые
+стильные мамаши, мелькала детвора в  азарте.  Мальчишки  пускали  в  пруду
+бумажные кораблики, они скользили по черно-литой  плоскости.  Один  достиг
+берега около меня. Я поднял его, размокшая  бумага  развернулась;  чернила
+расплылись на ней.
+
+     "......место  рождения:  14  авг.  1900   г.,   с.   Ольговка   бывш.
+Екатеринославской губернии (Днепропетровская обл.).
+     Партийность, год вступления: член КПСС с 1919 г.
+     ...нер-экономист, Ленинградский по
+     ...титут в 1930 г.
+     немецким - объясняюсь
+     ...в 1956 г.
+     Жена: Х Х Х
+     Дочь: Х Х Х
+     ...густ 1917 г. - рассыльный страховой акц
+     ...ства "Волга".
+     ...18 - 2/II-1920 - боец 270 стрелкового полка 24 Пролет
+     ...таря ревтрибунала 2 Донской дивизии.
+     ...чик Ленинградского торгово...
+     ...п/х "Роза Люксем...
+     6/X-1930 - 26/II-1938 - редактор Лениздата водного трансп...
+     партбюро 202 полка
+     Гангутского полка
+     ...лховский фронт
+     41 г.
+     ...евраль 1942 г. - комиссар 24 инж. бригады
+     ...краинский ф
+     3 танковая армия
+     VIII-1946 - преп. инж. дела военной ка...
+     ...953 - инженер-экономист
+     Совета рабочих, крестьян...
+     ...тов - секретарь.
+     юзный комитет - зампре...
+     1936, орден Красной Звезды - 1940, ор...
+     йны I степ. - 1943, медали "За оборону С...
+     ие Праги" - 1945, "За победу над фашистс...
+     1975 г.
+     ул. Белградская, д.106, корп. ......
+<pre><hr noshade><small>Обращений с начала месяца: <b>121</b>, Last-modified: Thu, 03 Jul 1997 09:59:43 GMT
+</small><div align=right><form action=mailto:hit@library.niisi.ras.ru method=POST><a href=/HITPARAD/><font color=black>Оцените</font></a> этот текст:<tt><font size=-1><INPUT TYPE=hidden NAME=file VALUE=/WELLER/boat.txt><SELECT NAME=ocenka><OPTION VALUE=0>Не читал<OPTION VALUE=10>10<OPTION VALUE=9>9<OPTION VALUE=8>8<OPTION VALUE=7>7<OPTION VALUE=6>6<OPTION VALUE=5>5<OPTION VALUE=4>4<OPTION VALUE=3>3<OPTION VALUE=2>2<OPTION VALUE=1>1</SELECT><INPUT TYPE=submit VALUE=Send></font></tt></form></div>
+
+</body></html>
