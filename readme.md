@@ -1,2 +1,2 @@
-Импортированно с bitbucket (https://bitbucket.org/Feretj/nlp)
+Импортированно с [bitbucket](https://bitbucket.org/Feretj/nlp) <br />
 Приложение распознования автора книги с консольным и веб интерфейсами.
